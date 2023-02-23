@@ -33,7 +33,8 @@
 
 
 ![Ityesmean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ityesmean&show_icons=true&theme=radical)  
-  
+
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ityesmean&layout=compact&theme=dracula)   -->
   
  # :mailbox_with_mail: Contacts
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ityesmean@naver.com)](mailto:ityesmean@naver.com) 
