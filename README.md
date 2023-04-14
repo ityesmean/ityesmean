@@ -24,11 +24,11 @@
 ![SpringBoot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   
 
-<!-- ### 🎫Certificate
-|Certificate|Date|
+### 🎫Certificate
+|Name|Date|
 |:--:|:--:|
-|정보처리기사|2021|
-|SQLD|2023| -->
+|정보처리기사|2021.08.20|
+|SQLD|2023.04.14|
 
 ### 🔨Tools
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
