@@ -39,7 +39,7 @@
 <!-- ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white) -->
 
 
-![Ityesmean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ityesmean&show_icons=true&theme=radical)  
+<!-- ![Ityesmean's GitHub stats](https://github-readme-stats.vercel.app/api?username=ityesmean&show_icons=true&theme=radical)  -->
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ityesmean&layout=compact&theme=dracula)   -->
   
